@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+canvas {
+  border: 1px solid #0a0000;
+  background-color: #fcfafa;
+  margin: 10px;
+}
+.labelSpace {
+  margin: 10px;
+}
+.numberInput {
+  width: 50px;
+}
+.directionButton {
+  margin: 10px;
+  width: 30%;
+  height: 100px;
+}
+
+.topButton {
+  display: flex;
+  justify-content: center;
+}
+.downButton {
+  display: flex;
+  justify-content: center;
+}
+
+.leftButton {
+  display: flex;
+  justify-content: space-around;
+}
+.rigthButton {
+  display: flex;
+  justify-content: space-around;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
