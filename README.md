@@ -1,6 +1,6 @@
 - Application is built by using react Js
 
- Available Scripts
+ ## Available Scripts
 
 In the project directory, you can Install:
 
