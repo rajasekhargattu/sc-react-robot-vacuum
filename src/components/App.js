@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 import { useCanvas } from './Canvas';
-import InputControls from './InputControls';
+import NavigationControls from './NavigationControls';
 
 function App() {
   const WIDTH = 570;
@@ -59,7 +59,7 @@ function App() {
       </form>
       {displayNavigation && (
         <>
-          <InputControls
+          <NavigationControls
             locations={locations}
             setLocations={setLocations}
             width={WIDTH}
