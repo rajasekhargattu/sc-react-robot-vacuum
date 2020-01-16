@@ -16,7 +16,12 @@ You will also see any lint errors in the console.
 
 ### How to test the application:
 - Set the x, y coordinates .
+
+![Image description](https://github.com/rajasekhargattu/sc-react-robot-vacuum/blob/master/vaccum-bot-screen1.PNG)
+
 - You can use navigation controls to direct the bot moves.
+
+![Image description](https://github.com/rajasekhargattu/sc-react-robot-vacuum/blob/master/vaccum-bot-screen2.PNG)
 
 
 ### `npm run build`
